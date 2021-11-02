@@ -4,21 +4,17 @@ repo: FlitsUptime # The name of this repository
 
 sites:
   - name: FLS
-    url: https://fls.flitswallet.app
+    url: https://fls.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/fls.png
   - name: KTS
-    url: https://kts.flitswallet.app
+    url: https://kts.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/kts.png
   - name: DOGEC
-    url: https://dogec.flitswallet.app
+    url: https://dogec.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/dogec.png
   - name: SCC
-    url: https://scc.flitswallet.app
+    url: https://scc.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/scc.png
-  - name: Blockbook FLS
-    url: https://fls.flitswallet.app/api/
-    icon: https://api3.flitsnode.app/coins/fls.png
-    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
