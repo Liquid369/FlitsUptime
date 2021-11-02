@@ -28,13 +28,19 @@ status-website:
   logoUrl: https://api3.flitsnode.app/coins/fls.png
   favicon: https://api3.flitsnode.app/coins/fls.png
   name: Flits Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/Liquid369/FlitsUptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Flits Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub and Upptime.js."
+  introMessage: This is a starting status page which uses **real-time** data from our [GitHub repository](https://github.com/Liquid369/FlitsUptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: ZenDesk
+      href: https://flits.zendesk.com/agent/dashboard
+    - title: ASE
+      href: https://ase.flitswallet.app
+    - title: Cloud
+      href: https://cloud.liquid369.xyz
   theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
