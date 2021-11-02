@@ -15,6 +15,9 @@ sites:
   - name: SCC
     url: https://scc.flitswallet.app
     icon: https://api3.flitsnode.app/coins/scc.png
+  - name: Blockbook FLS
+    url: https://fls.flitswallet.app/api/
+    icon: https://api3.flitsnode.app/coins/fls.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
