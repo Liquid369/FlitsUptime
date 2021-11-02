@@ -18,6 +18,7 @@ sites:
   - name: Blockbook FLS
     url: https://fls.flitswallet.app/api/
     icon: https://api3.flitsnode.app/coins/fls.png
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
