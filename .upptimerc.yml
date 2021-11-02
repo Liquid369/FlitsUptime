@@ -43,7 +43,7 @@ status-website:
       href: https://cloud.liquid369.xyz
   theme: dark
 i18n:
-    footer: This site is powered by **Liquid369**(https://liquid369.dev)
+    footer: This site is powered by [Liquid369](https://liquid369.dev)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
