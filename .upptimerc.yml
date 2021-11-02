@@ -6,15 +6,19 @@ sites:
   - name: FLS
     url: https://fls.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/fls.png
+    method: GET
   - name: KTS
     url: https://kts.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/kts.png
+    method: GET
   - name: DOGEC
     url: https://dogec.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/dogec.png
+    method: GET
   - name: SCC
     url: https://scc.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/scc.png
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
