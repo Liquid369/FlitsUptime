@@ -27,9 +27,9 @@ sites:
     url: https://777.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/777.png
     method: GET
-  - name: Jackpot
-    url: https://777.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/777.png
+  - name: TRTT
+    url: https://trtt.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/trtt.png
     method: GET
   - name: EZPAY
     url: https://ezpay.flitswallet.app/api
