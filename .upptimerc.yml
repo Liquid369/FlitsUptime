@@ -19,6 +19,26 @@ sites:
     url: https://scc.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/scc.png
     method: GET
+  - name: XP
+    url: https://xp.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/xp.png
+    method: GET
+  - name: Jackpot
+    url: https://777.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/777.png
+    method: GET
+  - name: Jackpot
+    url: https://777.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/777.png
+    method: GET
+  - name: EZPAY
+    url: https://ezpay.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/ezpay.png
+    method: GET
+  - name: EGG
+    url: https://egg.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/egg.png
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
