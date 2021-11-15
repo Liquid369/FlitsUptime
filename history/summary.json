@@ -184,19 +184,19 @@
     "url": "https://cspn.flitswallet.app/api",
     "icon": "https://api3.flitsnode.app/coins/cspn.png",
     "slug": "cspn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1723,
-    "timeDay": 929,
-    "timeWeek": 975,
-    "timeMonth": 1723,
-    "timeYear": 1723,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "91.77%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 1652,
+    "timeDay": 837,
+    "timeWeek": 939,
+    "timeMonth": 1652,
+    "timeYear": 1652,
     "dailyMinutesDown": {
-      "2021-11-15": 0
+      "2021-11-15": 118
     }
   },
   {
