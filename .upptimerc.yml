@@ -106,6 +106,54 @@ sites:
     url: https://sapp.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/sapp.png
     method: GET
+  - name: APR
+    url: https://apr.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/apr.png
+    method: GET
+  - name: AXEL
+    url: https://axel.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/axel.png
+    method: GET
+  - name: CTSC
+    url: https://ctsc.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/ctsc.png
+    method: GET
+  - name: ESK
+    url: https://esk.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/esk.png
+    method: GET
+  - name: KYD
+    url: https://kyd.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/kyd.png
+    method: GET
+  - name: NBX
+    url: https://nbx.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/nbx.png
+    method: GET
+  - name: SOVE
+    url: https://sove.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/sove.png
+    method: GET
+  - name: TWINS
+    url: https://twins.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/twins.png
+    method: GET
+  - name: XGS
+    url: https://xgs.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/xgs.png
+    method: GET
+  - name: XLQ
+    url: https://xlq.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/xlq.png
+    method: GET
+  - name: XSN
+    url: https://xsn.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/xsn.png
+    method: GET
+  - name: ZDX
+    url: https://zdx.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/zdx.png
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
