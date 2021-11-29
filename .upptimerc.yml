@@ -160,7 +160,7 @@ sites:
     icon: https://api3.flitsnode.app/coins/func.png
     method: GET
   - name: MIDAS
-    url: https://midas.flitswallet.app/api
+    url: https://midas1.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/midas.png
     method: GET
 
