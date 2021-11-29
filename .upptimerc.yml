@@ -2,6 +2,13 @@
 owner: Liquid369 # Your GitHub organization or username, where this repository lives
 repo: FlitsUptime # The name of this repository
 
+assignees:
+  - Liquid369
+  
+workflowSchedule:
+  graphs: "0 0 * * *"
+  uptime: "*/5 * * * *"
+
 sites:
   - name: FLS
     url: https://fls.flitswallet.app/api
