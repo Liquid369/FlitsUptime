@@ -95,7 +95,10 @@ sites:
     url: https://xscr.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/xscr.png
     method: GET
-
+  - name: SAPP
+    url: https://sapp.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/sapp.png
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
