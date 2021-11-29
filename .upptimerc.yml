@@ -4,6 +4,7 @@ repo: FlitsUptime # The name of this repository
 
 assignees:
   - Liquid369
+  - Luke-Larsen
   
 workflowSchedule:
   graphs: "0 0 * * *"
