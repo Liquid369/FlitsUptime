@@ -55,6 +55,47 @@ sites:
     url: https://sss.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/sss.png
     method: GET
+  - name: ZNZ
+    url: https://znz.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/znz.png
+    method: GET
+  - name: AZR
+    url: https://azr.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/azr.png
+    method: GET
+  - name: MODIC
+    url: https://modic.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/modic.png
+    method: GET
+  - name: DMS
+    url: https://dms.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/dms.png
+    method: GET
+  - name: DYN
+    url: https://dyn.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/dyn.png
+    method: GET
+  - name: ERS
+    url: https://ers.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/ers.png
+    method: GET
+  - name: ESBC
+    url: https://esbc.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/esbc.png
+    method: GET
+  - name: GTC
+    url: https://gtc.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/gtc.png
+    method: GET
+  - name: TELOS
+    url: https://telos.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/telos.png
+    method: GET
+  - name: XSCR
+    url: https://xscr.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/xscr.png
+    method: GET
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
