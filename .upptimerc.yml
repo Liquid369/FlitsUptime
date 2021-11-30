@@ -15,7 +15,7 @@ workflowSchedule:
 
 sites:
   - name: FLS
-    url: https://1fls.flitswallet.app/api
+    url: https://fls.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/fls.png
     method: GET
   - name: KTS
@@ -23,7 +23,7 @@ sites:
     icon: https://api3.flitsnode.app/coins/kts.png
     method: GET
   - name: DOGEC
-    url: https://dogec.flitswallet.app/api
+    url: https://1dogec.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/dogec.png
     method: GET
   - name: SCC
