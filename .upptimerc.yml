@@ -23,7 +23,7 @@ sites:
     icon: https://api3.flitsnode.app/coins/kts.png
     method: GET
   - name: DOGEC
-    url: https://1dogec.flitswallet.app/api
+    url: https://dogec.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/dogec.png
     method: GET
   - name: SCC
@@ -285,6 +285,10 @@ sites:
   - name: SMNC
     url: https://smnc.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/smnc.png
+    method: GET
+  - name: PNY
+    url: https://pny.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/pny.png
     method: GET
     
 
