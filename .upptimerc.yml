@@ -6,7 +6,7 @@ assignees:
   - Liquid369
   - Luke-Larsen
 notifications:
-  slack: blockworkshq:oxOUEGszNTHyFtP2SJzOifPe
+  slack: blockworkshq:TxZIctMThKn33rET1JUZawfj
   
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -14,11 +14,11 @@ workflowSchedule:
 
 sites:
   - name: FLS
-    url: https://fls.flitswallet.app/api
+    url: https://1fls.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/fls.png
     method: GET
   - name: KTS
-    url: https://kts1.flitswallet.app/api
+    url: https://kts.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/kts.png
     method: GET
   - name: DOGEC
