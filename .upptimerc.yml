@@ -16,7 +16,7 @@ workflowSchedule:
 
 sites:
   - name: FLS
-    url: https://fls.flitswallet.app/api
+    url: https://fls1.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/fls.png
     method: GET
   - name: KTS
@@ -84,7 +84,7 @@ sites:
     icon: https://api3.flitsnode.app/coins/dms.png
     method: GET
   - name: DYN
-    url: https://dyn2.flitswallet.app/api
+    url: https://dyn.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/dyn.png
     method: GET
   - name: ERS
