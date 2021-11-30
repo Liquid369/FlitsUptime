@@ -271,10 +271,6 @@ sites:
     url: https://phr.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/phr.png
     method: GET
-  - name: REEX
-    url: https://reex.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/reex.png
-    method: GET
   - name: PIVX
     url: https://pivx.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/pivx.png
@@ -286,10 +282,6 @@ sites:
   - name: SMNC
     url: https://smnc.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/smnc.png
-    method: GET
-  - name: PLAT
-    url: https://plat.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/plat.png
     method: GET
     
 
