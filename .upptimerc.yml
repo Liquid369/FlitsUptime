@@ -223,7 +223,7 @@ sites:
     url: https://merge.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/merge.png
     method: GET
-  - name: QUT
+  - name: QUOT
     url: https://quot.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/quot.png
     method: GET
@@ -244,9 +244,54 @@ sites:
     icon: https://api3.flitsnode.app/coins/lyra.png
     method: GET
   - name: EPG
-    url: https://epg1.flitswallet.app/api
+    url: https://epg.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/epg.png
     method: GET
+  - name: REMIT
+    url: https://remit.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/remit.png
+    method: GET
+  - name: GIC
+    url: https://gic.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/gic.png
+    method: GET
+  - name: GAU
+    url: https://gau.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/gau.png
+    method: GET
+  - name: NS
+    url: https://ns.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/ns.png
+    method: GET
+  - name: PFZER
+    url: https://pfzer.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/pfzer.png
+    method: GET
+  - name: PHR
+    url: https://phr.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/phr.png
+    method: GET
+  - name: REEX
+    url: https://reex.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/reex.png
+    method: GET
+  - name: PIVX
+    url: https://pivx.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/pivx.png
+    method: GET
+  - name: UCR
+    url: https://ucr.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/ucr.png
+    method: GET
+  - name: SMNC
+    url: https://smnc.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/smnc.png
+    method: GET
+  - name: PLAT
+    url: https://plat.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/plat.png
+    method: GET
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
