@@ -6,7 +6,8 @@ assignees:
   - Liquid369
   - Luke-Larsen
 notifications:
-  slack: blockworkshq:TxZIctMThKn33rET1JUZawfj
+  - type: slack
+    channel: C01SX9QG5PD
   
 workflowSchedule:
   graphs: "0 0 * * *"
