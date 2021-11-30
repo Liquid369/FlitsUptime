@@ -160,8 +160,88 @@ sites:
     icon: https://api3.flitsnode.app/coins/func.png
     method: GET
   - name: MIDAS
-    url: https://midas1.flitswallet.app/api
+    url: https://midas.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/midas.png
+    method: GET
+  - name: ABET
+    url: https://abet.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/abet.png
+    method: GET
+  - name: BARE
+    url: https://bare.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/bare.png
+    method: GET
+  - name: BIR
+    url: https://bir.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/bir.png
+    method: GET
+  - name: BLTG
+    url: https://bltg.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/bltg.png
+    method: GET
+  - name: CARI
+    url: https://cari.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/cari.png
+    method: GET
+  - name: CCY
+    url: https://ccy.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/ccy.png
+    method: GET
+  - name: DEV
+    url: https://dev.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/dev.png
+    method: GET
+  - name: ESSX
+    url: https://essx.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/essx.png
+    method: GET
+  - name: FDR
+    url: https://fdr.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/fdr.png
+    method: GET
+  - name: FLN
+    url: https://fln.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/fln.png
+    method: GET
+  - name: FYD
+    url: https://fyd.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/fyd.png
+    method: GET
+  - name: GBX
+    url: https://gbx.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/gbx.png
+    method: GET
+  - name: IDX
+    url: https://idx.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/idx.png
+    method: GET
+  - name: LABX
+    url: https://labx.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/labx.png
+    method: GET
+  - name: MERGE
+    url: https://merge.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/merge.png
+    method: GET
+  - name: QUT
+    url: https://quot.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/quot.png
+    method: GET
+  - name: MARC
+    url: https://marc.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/marc.png
+    method: GET
+  - name: ULG
+    url: https://ulg.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/ulg.png
+    method: GET
+  - name: KYAN
+    url: https://kyan.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/kyan.png
+    method: GET
+  - name: LYRA
+    url: https://lyra.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/lyra.png
     method: GET
 
 status-website:
