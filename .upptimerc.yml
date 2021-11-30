@@ -7,8 +7,8 @@ assignees:
   - Luke-Larsen
 notifications:
   - type: slack
-      channel: C01SX9QG5PD
-  SLACK_APP_ACCESS_TOKEN: xoxb-1676814342162-2780060291507-dBywEYZyFoVrMDBLzJgVRF2M
+    channel ID: C01SX9QG5PD
+    SLACK_APP_ACCESS_TOKEN: xoxb-1676814342162-2780060291507-dBywEYZyFoVrMDBLzJgVRF2M
   
 workflowSchedule:
   graphs: "0 0 * * *"
