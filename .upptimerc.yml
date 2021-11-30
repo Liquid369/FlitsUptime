@@ -244,7 +244,7 @@ sites:
     icon: https://api3.flitsnode.app/coins/lyra.png
     method: GET
   - name: EPG
-    url: https://epg.flitswallet.app/api
+    url: https://epg1.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/epg.png
     method: GET
 
