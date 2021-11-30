@@ -1,7 +1,7 @@
 url: https://bir.flitswallet.app/api
-status: down
-code: 502
-responseTime: 519
-lastUpdated: 2021-11-30T07:46:57.332Z
+status: up
+code: 200
+responseTime: 1229
+lastUpdated: 2021-11-30T08:30:48.866Z
 startTime: Tue Nov 30 2021 00:03:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
