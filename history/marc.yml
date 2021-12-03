@@ -1,7 +1,7 @@
 url: https://marc.flitswallet.app/api
-status: down
-code: 502
-responseTime: 517
-lastUpdated: 2021-12-03T13:33:50.423Z
+status: up
+code: 200
+responseTime: 1063
+lastUpdated: 2021-12-03T13:44:43.162Z
 startTime: Tue Nov 30 2021 00:04:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
