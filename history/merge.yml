@@ -1,7 +1,7 @@
 url: https://merge.flitswallet.app/api
-status: down
-code: 502
-responseTime: 934
-lastUpdated: 2021-12-10T15:39:15.586Z
+status: up
+code: 200
+responseTime: 25637
+lastUpdated: 2021-12-10T16:37:52.587Z
 startTime: Tue Nov 30 2021 00:04:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
