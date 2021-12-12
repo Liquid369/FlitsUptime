@@ -222,10 +222,6 @@ sites:
     url: https://labx.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/labx.png
     method: GET
-  - name: MERGE
-    url: https://merge.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/merge.png
-    method: GET
   - name: QUOT
     url: https://quot.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/quot.png
@@ -241,10 +237,6 @@ sites:
   - name: KYAN
     url: https://kyan.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/kyan.png
-    method: GET
-  - name: LYRA
-    url: https://lyra.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/lyra.png
     method: GET
   - name: EPG
     url: https://epg.flitswallet.app/api
