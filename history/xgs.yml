@@ -1,7 +1,7 @@
 url: https://xgs.flitswallet.app/api
-status: up
-code: 200
-responseTime: 551
-lastUpdated: 2021-12-24T19:39:35.954Z
+status: down
+code: 502
+responseTime: 502
+lastUpdated: 2021-12-24T21:10:46.052Z
 startTime: Mon Nov 29 2021 22:51:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
