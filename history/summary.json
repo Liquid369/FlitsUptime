@@ -13,7 +13,7 @@
     "time": 1090,
     "timeDay": 1166,
     "timeWeek": 1120,
-    "timeMonth": 1028,
+    "timeMonth": 1040,
     "timeYear": 1090,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1008,
     "timeDay": 1116,
     "timeWeek": 980,
-    "timeMonth": 949,
+    "timeMonth": 945,
     "timeYear": 1008,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1005,
     "timeDay": 1158,
     "timeWeek": 994,
-    "timeMonth": 905,
+    "timeMonth": 920,
     "timeYear": 1005,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 921,
     "timeDay": 1083,
     "timeWeek": 950,
-    "timeMonth": 886,
+    "timeMonth": 896,
     "timeYear": 921,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 1009,
     "timeDay": 1229,
     "timeWeek": 1034,
-    "timeMonth": 977,
+    "timeMonth": 989,
     "timeYear": 1009,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 900,
     "timeDay": 1045,
     "timeWeek": 922,
-    "timeMonth": 885,
+    "timeMonth": 901,
     "timeYear": 900,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 876,
     "timeDay": 1043,
     "timeWeek": 931,
-    "timeMonth": 847,
+    "timeMonth": 858,
     "timeYear": 876,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 921,
     "timeDay": 1102,
     "timeWeek": 947,
-    "timeMonth": 878,
+    "timeMonth": 884,
     "timeYear": 921,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 876,
     "timeDay": 1056,
     "timeWeek": 899,
-    "timeMonth": 841,
+    "timeMonth": 845,
     "timeYear": 876,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 875,
     "timeDay": 1065,
     "timeWeek": 899,
-    "timeMonth": 837,
+    "timeMonth": 843,
     "timeYear": 875,
     "dailyMinutesDown": {}
   },
@@ -185,15 +185,15 @@
     "icon": "https://api3.flitsnode.app/coins/cspn.png",
     "slug": "cspn",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 1971,
     "timeDay": 8014,
     "timeWeek": 2841,
-    "timeMonth": 1907,
+    "timeMonth": 2015,
     "timeYear": 1971,
     "dailyMinutesDown": {
       "2021-11-15": 118
@@ -213,7 +213,7 @@
     "time": 884,
     "timeDay": 1081,
     "timeWeek": 899,
-    "timeMonth": 856,
+    "timeMonth": 870,
     "timeYear": 884,
     "dailyMinutesDown": {}
   },
@@ -231,7 +231,7 @@
     "time": 878,
     "timeDay": 1053,
     "timeWeek": 907,
-    "timeMonth": 848,
+    "timeMonth": 856,
     "timeYear": 878,
     "dailyMinutesDown": {}
   },
@@ -249,7 +249,7 @@
     "time": 845,
     "timeDay": 1079,
     "timeWeek": 903,
-    "timeMonth": 833,
+    "timeMonth": 840,
     "timeYear": 845,
     "dailyMinutesDown": {}
   },
@@ -267,7 +267,7 @@
     "time": 850,
     "timeDay": 1050,
     "timeWeek": 905,
-    "timeMonth": 839,
+    "timeMonth": 848,
     "timeYear": 850,
     "dailyMinutesDown": {}
   },
@@ -285,7 +285,7 @@
     "time": 879,
     "timeDay": 1074,
     "timeWeek": 942,
-    "timeMonth": 849,
+    "timeMonth": 853,
     "timeYear": 879,
     "dailyMinutesDown": {}
   },
@@ -303,7 +303,7 @@
     "time": 859,
     "timeDay": 1072,
     "timeWeek": 900,
-    "timeMonth": 845,
+    "timeMonth": 850,
     "timeYear": 859,
     "dailyMinutesDown": {}
   },
@@ -321,7 +321,7 @@
     "time": 842,
     "timeDay": 1060,
     "timeWeek": 887,
-    "timeMonth": 829,
+    "timeMonth": 840,
     "timeYear": 842,
     "dailyMinutesDown": {}
   },
@@ -339,7 +339,7 @@
     "time": 852,
     "timeDay": 1145,
     "timeWeek": 909,
-    "timeMonth": 835,
+    "timeMonth": 842,
     "timeYear": 852,
     "dailyMinutesDown": {}
   },
@@ -357,7 +357,7 @@
     "time": 854,
     "timeDay": 1071,
     "timeWeek": 901,
-    "timeMonth": 835,
+    "timeMonth": 844,
     "timeYear": 854,
     "dailyMinutesDown": {}
   },
@@ -375,7 +375,7 @@
     "time": 1376,
     "timeDay": 1079,
     "timeWeek": 911,
-    "timeMonth": 1502,
+    "timeMonth": 1634,
     "timeYear": 1376,
     "dailyMinutesDown": {
       "2021-12-01": 24
@@ -395,7 +395,7 @@
     "time": 847,
     "timeDay": 1102,
     "timeWeek": 895,
-    "timeMonth": 833,
+    "timeMonth": 840,
     "timeYear": 847,
     "dailyMinutesDown": {}
   },
@@ -413,7 +413,7 @@
     "time": 852,
     "timeDay": 1082,
     "timeWeek": 900,
-    "timeMonth": 838,
+    "timeMonth": 846,
     "timeYear": 852,
     "dailyMinutesDown": {}
   },
@@ -431,7 +431,7 @@
     "time": 890,
     "timeDay": 1098,
     "timeWeek": 909,
-    "timeMonth": 844,
+    "timeMonth": 853,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2021-12-27": 16
@@ -451,7 +451,7 @@
     "time": 25837,
     "timeDay": 26076,
     "timeWeek": 25895,
-    "timeMonth": 25825,
+    "timeMonth": 25833,
     "timeYear": 25837,
     "dailyMinutesDown": {}
   },
@@ -469,7 +469,7 @@
     "time": 855,
     "timeDay": 1073,
     "timeWeek": 904,
-    "timeMonth": 843,
+    "timeMonth": 852,
     "timeYear": 855,
     "dailyMinutesDown": {}
   },
@@ -479,18 +479,18 @@
     "icon": "https://api3.flitsnode.app/coins/ctsc.png",
     "slug": "ctsc",
     "status": "down",
-    "uptime": "86.69%",
+    "uptime": "85.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.09%",
-    "uptimeMonth": "86.67%",
-    "uptimeYear": "86.69%",
+    "uptimeWeek": "38.01%",
+    "uptimeMonth": "85.74%",
+    "uptimeYear": "85.89%",
     "time": 1428,
     "timeDay": 932,
     "timeWeek": 3952,
-    "timeMonth": 1500,
+    "timeMonth": 1638,
     "timeYear": 1428,
     "dailyMinutesDown": {
-      "2021-12-30": 749,
+      "2021-12-30": 1160,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
@@ -512,7 +512,7 @@
     "time": 846,
     "timeDay": 1070,
     "timeWeek": 898,
-    "timeMonth": 838,
+    "timeMonth": 843,
     "timeYear": 846,
     "dailyMinutesDown": {}
   },
@@ -530,7 +530,7 @@
     "time": 841,
     "timeDay": 1069,
     "timeWeek": 901,
-    "timeMonth": 830,
+    "timeMonth": 838,
     "timeYear": 841,
     "dailyMinutesDown": {}
   },
@@ -548,7 +548,7 @@
     "time": 849,
     "timeDay": 1049,
     "timeWeek": 902,
-    "timeMonth": 840,
+    "timeMonth": 847,
     "timeYear": 849,
     "dailyMinutesDown": {}
   },
@@ -566,7 +566,7 @@
     "time": 849,
     "timeDay": 1067,
     "timeWeek": 898,
-    "timeMonth": 835,
+    "timeMonth": 841,
     "timeYear": 849,
     "dailyMinutesDown": {}
   },
@@ -584,7 +584,7 @@
     "time": 852,
     "timeDay": 1064,
     "timeWeek": 900,
-    "timeMonth": 842,
+    "timeMonth": 850,
     "timeYear": 852,
     "dailyMinutesDown": {}
   },
@@ -594,18 +594,18 @@
     "icon": "https://api3.flitsnode.app/coins/xgs.png",
     "slug": "xgs",
     "status": "down",
-    "uptime": "24.33%",
+    "uptime": "24.11%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.29%",
-    "uptimeMonth": "23.96%",
-    "uptimeYear": "24.33%",
+    "uptimeWeek": "34.46%",
+    "uptimeMonth": "23.02%",
+    "uptimeYear": "24.11%",
     "time": 4293,
     "timeDay": 907,
-    "timeWeek": 7006,
-    "timeMonth": 4630,
+    "timeWeek": 6640,
+    "timeMonth": 4985,
     "timeYear": 4293,
     "dailyMinutesDown": {
-      "2021-12-30": 749,
+      "2021-12-30": 1160,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
@@ -650,7 +650,7 @@
     "time": 845,
     "timeDay": 1045,
     "timeWeek": 899,
-    "timeMonth": 835,
+    "timeMonth": 841,
     "timeYear": 845,
     "dailyMinutesDown": {}
   },
@@ -668,7 +668,7 @@
     "time": 854,
     "timeDay": 1048,
     "timeWeek": 902,
-    "timeMonth": 843,
+    "timeMonth": 848,
     "timeYear": 854,
     "dailyMinutesDown": {
       "2021-12-15": 22
@@ -688,7 +688,7 @@
     "time": 849,
     "timeDay": 1054,
     "timeWeek": 900,
-    "timeMonth": 838,
+    "timeMonth": 843,
     "timeYear": 849,
     "dailyMinutesDown": {}
   },
@@ -706,7 +706,7 @@
     "time": 856,
     "timeDay": 1044,
     "timeWeek": 888,
-    "timeMonth": 852,
+    "timeMonth": 855,
     "timeYear": 856,
     "dailyMinutesDown": {}
   },
@@ -724,7 +724,7 @@
     "time": 832,
     "timeDay": 1088,
     "timeWeek": 900,
-    "timeMonth": 836,
+    "timeMonth": 846,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2021-11-30": 4,
@@ -745,7 +745,7 @@
     "time": 886,
     "timeDay": 1094,
     "timeWeek": 945,
-    "timeMonth": 887,
+    "timeMonth": 895,
     "timeYear": 886,
     "dailyMinutesDown": {}
   },
@@ -763,7 +763,7 @@
     "time": 872,
     "timeDay": 1105,
     "timeWeek": 945,
-    "timeMonth": 880,
+    "timeMonth": 887,
     "timeYear": 872,
     "dailyMinutesDown": {}
   },
@@ -781,7 +781,7 @@
     "time": 869,
     "timeDay": 1120,
     "timeWeek": 943,
-    "timeMonth": 876,
+    "timeMonth": 885,
     "timeYear": 869,
     "dailyMinutesDown": {
       "2021-11-30": 44
@@ -801,7 +801,7 @@
     "time": 877,
     "timeDay": 1144,
     "timeWeek": 946,
-    "timeMonth": 885,
+    "timeMonth": 894,
     "timeYear": 877,
     "dailyMinutesDown": {}
   },
@@ -819,7 +819,7 @@
     "time": 888,
     "timeDay": 1142,
     "timeWeek": 951,
-    "timeMonth": 898,
+    "timeMonth": 907,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2021-12-21": 29
@@ -831,18 +831,18 @@
     "icon": "https://api3.flitsnode.app/coins/ccy.png",
     "slug": "ccy",
     "status": "down",
-    "uptime": "95.02%",
+    "uptime": "94.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.94%",
-    "uptimeMonth": "95.07%",
-    "uptimeYear": "95.02%",
+    "uptimeWeek": "75.87%",
+    "uptimeMonth": "94.14%",
+    "uptimeYear": "94.14%",
     "time": 927,
     "timeDay": 964,
     "timeWeek": 924,
-    "timeMonth": 913,
+    "timeMonth": 918,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2021-12-30": 749,
+      "2021-12-30": 1160,
       "2021-12-29": 1273,
       "2021-12-17": 38,
       "2021-12-14": 21,
@@ -866,7 +866,7 @@
     "time": 877,
     "timeDay": 1091,
     "timeWeek": 931,
-    "timeMonth": 885,
+    "timeMonth": 894,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2021-12-15": 95,
@@ -887,7 +887,7 @@
     "time": 877,
     "timeDay": 1120,
     "timeWeek": 944,
-    "timeMonth": 880,
+    "timeMonth": 888,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2021-11-30": 30
@@ -907,7 +907,7 @@
     "time": 874,
     "timeDay": 1104,
     "timeWeek": 944,
-    "timeMonth": 882,
+    "timeMonth": 891,
     "timeYear": 874,
     "dailyMinutesDown": {}
   },
@@ -925,7 +925,7 @@
     "time": 892,
     "timeDay": 1113,
     "timeWeek": 945,
-    "timeMonth": 882,
+    "timeMonth": 891,
     "timeYear": 892,
     "dailyMinutesDown": {
       "2021-11-30": 49
@@ -945,7 +945,7 @@
     "time": 907,
     "timeDay": 1105,
     "timeWeek": 980,
-    "timeMonth": 911,
+    "timeMonth": 922,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2021-11-30": 30
@@ -965,7 +965,7 @@
     "time": 916,
     "timeDay": 1093,
     "timeWeek": 934,
-    "timeMonth": 902,
+    "timeMonth": 889,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2021-11-30": 48
@@ -985,7 +985,7 @@
     "time": 879,
     "timeDay": 1165,
     "timeWeek": 950,
-    "timeMonth": 888,
+    "timeMonth": 897,
     "timeYear": 879,
     "dailyMinutesDown": {}
   },
@@ -1003,7 +1003,7 @@
     "time": 869,
     "timeDay": 1110,
     "timeWeek": 944,
-    "timeMonth": 877,
+    "timeMonth": 885,
     "timeYear": 869,
     "dailyMinutesDown": {}
   },
@@ -1021,7 +1021,7 @@
     "time": 873,
     "timeDay": 1130,
     "timeWeek": 947,
-    "timeMonth": 880,
+    "timeMonth": 889,
     "timeYear": 873,
     "dailyMinutesDown": {}
   },
@@ -1030,17 +1030,17 @@
     "url": "https://marc.flitswallet.app/api",
     "icon": "https://api3.flitsnode.app/coins/marc.png",
     "slug": "marc",
-    "status": "up",
-    "uptime": "39.75%",
-    "uptimeDay": "97.89%",
+    "status": "down",
+    "uptime": "40.31%",
+    "uptimeDay": "97.86%",
     "uptimeWeek": "94.01%",
     "uptimeMonth": "39.62%",
-    "uptimeYear": "39.75%",
-    "time": 4922,
-    "timeDay": 1081,
-    "timeWeek": 981,
-    "timeMonth": 4973,
-    "timeYear": 4922,
+    "uptimeYear": "40.31%",
+    "time": 5030,
+    "timeDay": 6531,
+    "timeWeek": 2972,
+    "timeMonth": 5243,
+    "timeYear": 5030,
     "dailyMinutesDown": {
       "2021-12-30": 30,
       "2021-12-28": 573,
@@ -1082,7 +1082,7 @@
     "time": 879,
     "timeDay": 1097,
     "timeWeek": 939,
-    "timeMonth": 882,
+    "timeMonth": 885,
     "timeYear": 879,
     "dailyMinutesDown": {
       "2021-11-30": 30
@@ -1102,7 +1102,7 @@
     "time": 903,
     "timeDay": 1096,
     "timeWeek": 946,
-    "timeMonth": 883,
+    "timeMonth": 894,
     "timeYear": 903,
     "dailyMinutesDown": {}
   },
@@ -1120,7 +1120,7 @@
     "time": 876,
     "timeDay": 1105,
     "timeWeek": 940,
-    "timeMonth": 884,
+    "timeMonth": 891,
     "timeYear": 876,
     "dailyMinutesDown": {}
   },
@@ -1138,7 +1138,7 @@
     "time": 870,
     "timeDay": 1100,
     "timeWeek": 932,
-    "timeMonth": 877,
+    "timeMonth": 887,
     "timeYear": 870,
     "dailyMinutesDown": {}
   },
@@ -1156,7 +1156,7 @@
     "time": 880,
     "timeDay": 1111,
     "timeWeek": 947,
-    "timeMonth": 886,
+    "timeMonth": 893,
     "timeYear": 880,
     "dailyMinutesDown": {}
   },
@@ -1174,7 +1174,7 @@
     "time": 875,
     "timeDay": 1136,
     "timeWeek": 948,
-    "timeMonth": 882,
+    "timeMonth": 890,
     "timeYear": 875,
     "dailyMinutesDown": {}
   },
@@ -1192,7 +1192,7 @@
     "time": 882,
     "timeDay": 1087,
     "timeWeek": 942,
-    "timeMonth": 882,
+    "timeMonth": 890,
     "timeYear": 882,
     "dailyMinutesDown": {}
   },
@@ -1210,7 +1210,7 @@
     "time": 872,
     "timeDay": 1124,
     "timeWeek": 931,
-    "timeMonth": 880,
+    "timeMonth": 888,
     "timeYear": 872,
     "dailyMinutesDown": {}
   },
@@ -1228,7 +1228,7 @@
     "time": 887,
     "timeDay": 1139,
     "timeWeek": 945,
-    "timeMonth": 886,
+    "timeMonth": 895,
     "timeYear": 887,
     "dailyMinutesDown": {}
   },
@@ -1246,7 +1246,7 @@
     "time": 1233,
     "timeDay": 1322,
     "timeWeek": 980,
-    "timeMonth": 1250,
+    "timeMonth": 1331,
     "timeYear": 1233,
     "dailyMinutesDown": {}
   },
@@ -1264,7 +1264,7 @@
     "time": 902,
     "timeDay": 1123,
     "timeWeek": 946,
-    "timeMonth": 910,
+    "timeMonth": 922,
     "timeYear": 902,
     "dailyMinutesDown": {}
   },
@@ -1282,7 +1282,7 @@
     "time": 874,
     "timeDay": 1107,
     "timeWeek": 937,
-    "timeMonth": 881,
+    "timeMonth": 889,
     "timeYear": 874,
     "dailyMinutesDown": {}
   },
@@ -1300,7 +1300,7 @@
     "time": 887,
     "timeDay": 1149,
     "timeWeek": 948,
-    "timeMonth": 887,
+    "timeMonth": 894,
     "timeYear": 887,
     "dailyMinutesDown": {}
   }
