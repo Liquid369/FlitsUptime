@@ -10,6 +10,6 @@ jobs:
       env:
         SLACK_TITLE: Blockbook Down!!
         SLACK_USERNAME: CrapBot
-        SLACK_ICON_EMOJI: 💩
+        SLACK_ICON: https://i.imgur.com/2Mb7NIS.png
         SLACK_MESSAGE: ${{ github.event.label.name }}
         SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
