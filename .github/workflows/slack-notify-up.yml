@@ -1,0 +1,17 @@
+on: 
+  issues:
+    types: [closed]
+name: Flits Uptime
+jobs:
+  slackNotification:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Flits Uptime
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_TITLE: Blockbook Up!!
+          SLACK_USERNAME: CrapBot
+          SLACK_ICON: https://i.imgur.com/2Mb7NIS.png
+          SLACK_MESSAGE: ${{ github.event.issue.title }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
