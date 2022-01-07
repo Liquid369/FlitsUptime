@@ -5,20 +5,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: rtCamp/action-slack-notify@v2
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
       - name: Slack Blockbook down
         if: contains(github.event.issue.labels.*.name, 'down')
-        run: |
-          echo "SLACK_TITLE: Blockbook Down!!" >> $GITHUB_ENV
-          echo "SLACK_USERNAME: CrapBot" >> $GITHUB_ENV
-          echo "SLACK_ICON: https://i.imgur.com/2Mb7NIS.png" >> $GITHUB_ENV
-          echo "SLACK_MESSAGE: ${{ github.event.issue.title }}" >> $GITHUB_ENV
+      - uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_TITLE: Blockbook Down!!
+          SLACK_USERNAME: CrapBot
+          SLACK_ICON: https://i.imgur.com/2Mb7NIS.png
+          SLACK_MESSAGE: ${{ github.event.issue.title }}
       - name: Slack Blockbook up
         if: contains(github.event.issue.labels.*.name, 'up')
-        run: |
-          echo "SLACK_TITLE: Blockbook Up!" >> $GITHUB_ENV
-          echo "SLACK_USERNAME: CrapBot" >> $GITHUB_ENV
-          echo "SLACK_ICON: https://i.imgur.com/2Mb7NIS.png" >> $GITHUB_ENV
-          echo "SLACK_MESSAGE: ${{ github.event.issue.title }}" >> $GITHUB_ENV
+      - uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_TITLE: Blockbook Up!
+          SLACK_USERNAME: CrapBot
+          SLACK_ICON: https://i.imgur.com/2Mb7NIS.png
+          SLACK_MESSAGE: ${{ github.event.issue.title }}
+
