@@ -16,9 +16,9 @@ jobs:
           echo "SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}" >> $GITHUB_ENV
       - name: Slack Blockbook up
         if: contains(github.event.issue.labels.*.name, 'up')
-        env:
-          SLACK_TITLE: Blockbook Up!
-          SLACK_USERNAME: CrapBot
-          SLACK_ICON: https://i.imgur.com/2Mb7NIS.png
-          SLACK_MESSAGE: ${{ github.event.issue.title }}
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        run: |
+          echo "SLACK_TITLE: Blockbook Down!!" >> $GITHUB_ENV
+          echo "SLACK_USERNAME: CrapBot" >> $GITHUB_ENV
+          echo "SLACK_ICON: https://i.imgur.com/2Mb7NIS.png" >> $GITHUB_ENV
+          echo "SLACK_MESSAGE: ${{ github.event.issue.title }}" >> $GITHUB_ENV
+          echo "SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}" >> $GITHUB_ENV
