@@ -6,6 +6,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
       - name: Slack Blockbook down
         if: contains(github.event.issue.labels.*.name, 'down')
         run: |
@@ -13,7 +15,6 @@ jobs:
           echo "SLACK_USERNAME: CrapBot" >> $GITHUB_ENV
           echo "SLACK_ICON: https://i.imgur.com/2Mb7NIS.png" >> $GITHUB_ENV
           echo "SLACK_MESSAGE: ${{ github.event.issue.title }}" >> $GITHUB_ENV
-          echo "SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}" >> $GITHUB_ENV
       - name: Slack Blockbook up
         if: contains(github.event.issue.labels.*.name, 'up')
         run: |
@@ -21,4 +22,3 @@ jobs:
           echo "SLACK_USERNAME: CrapBot" >> $GITHUB_ENV
           echo "SLACK_ICON: https://i.imgur.com/2Mb7NIS.png" >> $GITHUB_ENV
           echo "SLACK_MESSAGE: ${{ github.event.issue.title }}" >> $GITHUB_ENV
-          echo "SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}" >> $GITHUB_ENV
