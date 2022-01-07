@@ -286,6 +286,10 @@ sites:
     url: https://merge.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/merge.png
     method: GET
+  - name: LYRA
+    url: https://lyra.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/lyra.png
+    method: GET
     
 
 status-website:
