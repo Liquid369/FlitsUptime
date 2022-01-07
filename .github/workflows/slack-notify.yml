@@ -9,18 +9,18 @@ jobs:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
       - name: Slack Blockbook down
         if: contains(github.event.issue.labels.*.name, 'down')
-        uses: rtCamp/action-slack-notify@v2
         env:
           SLACK_TITLE: Blockbook Down!!
           SLACK_USERNAME: CrapBot
           SLACK_ICON: https://i.imgur.com/2Mb7NIS.png
           SLACK_MESSAGE: ${{ github.event.issue.title }}
+        uses: rtCamp/action-slack-notify@v2
       - name: Slack Blockbook up
         if: contains(github.event.issue.labels.*.name, 'up')
-        uses: rtCamp/action-slack-notify@v2
         env:
           SLACK_TITLE: Blockbook Up!
           SLACK_USERNAME: CrapBot
           SLACK_ICON: https://i.imgur.com/2Mb7NIS.png
           SLACK_MESSAGE: ${{ github.event.issue.title }}
+        uses: rtCamp/action-slack-notify@v2
 
