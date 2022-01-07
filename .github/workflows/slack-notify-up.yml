@@ -13,6 +13,6 @@ jobs:
           SLACK_TITLE: Blockbook Up!!
           SLACK_USERNAME: CrapBot
           SLACK_ICON: https://i.imgur.com/2Mb7NIS.png
-          SLACK_MESSAGE: ${{ github.event.issue.title }}
+          SLACK_MESSAGE: ${{ github.event.issue.body }}
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
           SLACK_FOOTER: Powered By A Lump Of Dog Poo!
