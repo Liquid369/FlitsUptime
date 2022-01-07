@@ -282,6 +282,10 @@ sites:
     url: https://pny.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/pny.png
     method: GET
+  - name: MERGE
+    url: https://merge.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/merge.png
+    method: GET
     
 
 status-website:
