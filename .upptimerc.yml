@@ -289,6 +289,10 @@ sites:
   - name: LYRA
     url: https://lyra.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/lyra.png
+    method: GET  
+  - name: MW
+    url: https://mw.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/mw.png
     method: GET
     
 
