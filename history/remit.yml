@@ -1,7 +1,7 @@
 url: https://remit.flitswallet.app/api
-status: down
-code: 502
-responseTime: 912
-lastUpdated: 2022-01-20T18:37:11.961Z
+status: up
+code: 200
+responseTime: 603
+lastUpdated: 2022-01-20T20:23:49.108Z
 startTime: Tue Nov 30 2021 00:46:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
