@@ -1,7 +1,7 @@
 url: https://ctsc.flitswallet.app/api
-status: up
-code: 200
-responseTime: 1027
-lastUpdated: 2022-01-26T23:16:08.651Z
+status: down
+code: 502
+responseTime: 504
+lastUpdated: 2022-01-27T03:01:00.027Z
 startTime: Mon Nov 29 2021 22:50:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
