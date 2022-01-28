@@ -1,7 +1,7 @@
 url: https://phr.flitswallet.app/api
-status: up
-code: 200
-responseTime: 600
-lastUpdated: 2022-01-27T23:16:38.305Z
+status: down
+code: 502
+responseTime: 883
+lastUpdated: 2022-01-28T17:37:03.091Z
 startTime: Tue Nov 30 2021 00:46:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
