@@ -1,7 +1,7 @@
 url: https://ccy.flitswallet.app/api
-status: up
-code: 200
-responseTime: 1104
-lastUpdated: 2022-02-02T23:16:42.422Z
+status: down
+code: 502
+responseTime: 1107
+lastUpdated: 2022-02-03T11:56:32.756Z
 startTime: Tue Nov 30 2021 00:03:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
