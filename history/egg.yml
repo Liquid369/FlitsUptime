@@ -1,7 +1,7 @@
 url: https://egg.flitswallet.app/api
-status: up
-code: 200
-responseTime: 591
-lastUpdated: 2022-02-12T23:15:06.650Z
+status: down
+code: 502
+responseTime: 867
+lastUpdated: 2022-02-13T21:54:00.455Z
 startTime: Wed Nov 03 2021 15:51:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
