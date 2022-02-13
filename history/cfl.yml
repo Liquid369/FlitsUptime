@@ -1,7 +1,7 @@
 url: https://cfl.flitswallet.app/api
-status: down
-code: 502
-responseTime: 841
-lastUpdated: 2022-02-13T22:09:45.142Z
+status: up
+code: 200
+responseTime: 1303
+lastUpdated: 2022-02-13T22:27:31.041Z
 startTime: Wed Nov 03 2021 20:29:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
