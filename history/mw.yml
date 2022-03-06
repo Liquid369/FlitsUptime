@@ -1,7 +1,7 @@
 url: https://mw.flitswallet.app/api
-status: up
-code: 200
-responseTime: 1099
-lastUpdated: 2022-03-05T23:16:53.894Z
+status: down
+code: 502
+responseTime: 635
+lastUpdated: 2022-03-06T03:17:02.373Z
 startTime: Fri Jan 14 2022 18:47:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
