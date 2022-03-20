@@ -1,7 +1,7 @@
 url: https://zdx.flitswallet.app/api
-status: down
-code: 502
-responseTime: 843
-lastUpdated: 2022-03-20T12:48:16.135Z
+status: up
+code: 200
+responseTime: 1089
+lastUpdated: 2022-03-20T13:49:32.106Z
 startTime: Mon Nov 29 2021 22:51:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
