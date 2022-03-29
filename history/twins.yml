@@ -1,7 +1,7 @@
 url: https://twins.flitswallet.app/api
-status: up
-code: 200
-responseTime: 1009
-lastUpdated: 2022-03-28T23:16:54.954Z
+status: down
+code: 502
+responseTime: 875
+lastUpdated: 2022-03-29T21:44:44.208Z
 startTime: Mon Nov 29 2021 22:51:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
