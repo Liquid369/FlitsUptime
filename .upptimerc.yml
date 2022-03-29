@@ -154,10 +154,6 @@ sites:
     url: https://xsn.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/xsn.png
     method: GET
-  - name: ZDX
-    url: https://zdx.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/zdx.png
-    method: GET
   - name: FUNC
     url: https://func.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/func.png
@@ -257,10 +253,6 @@ sites:
   - name: NS
     url: https://ns.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/ns.png
-    method: GET
-  - name: PFZER
-    url: https://pfzer.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/pfzer.png
     method: GET
   - name: PHR
     url: https://phr.flitswallet.app/api
