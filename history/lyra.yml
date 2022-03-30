@@ -1,7 +1,7 @@
 url: https://lyra.flitswallet.app/api
-status: down
-code: 502
-responseTime: 882
-lastUpdated: 2022-03-30T22:47:05.267Z
+status: up
+code: 200
+responseTime: 659
+lastUpdated: 2022-03-30T22:56:03.441Z
 startTime: Fri Jan 07 2022 14:42:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
