@@ -1,7 +1,7 @@
 url: https://idx.flitswallet.app/api
-status: up
-code: 200
-responseTime: 609
-lastUpdated: 2022-04-23T23:18:38.861Z
+status: down
+code: 502
+responseTime: 896
+lastUpdated: 2022-04-24T05:19:27.167Z
 startTime: Tue Nov 30 2021 00:04:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
