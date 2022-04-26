@@ -286,6 +286,10 @@ sites:
     url: https://mw.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/mw.png
     method: GET
+  - name: PWRB
+    url: https://pwrb.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/pwrb.png
+    method: GET
     
 
 status-website:
