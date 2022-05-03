@@ -198,10 +198,6 @@ sites:
     url: https://fdr.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/fdr.png
     method: GET
-  - name: GBX
-    url: https://gbx.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/gbx.png
-    method: GET
   - name: IDX
     url: https://idx.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/idx.png
@@ -225,14 +221,6 @@ sites:
   - name: KYAN
     url: https://kyan.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/kyan.png
-    method: GET
-  - name: EPG
-    url: https://epg.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/epg.png
-    method: GET
-  - name: REMIT
-    url: https://remit.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/remit.png
     method: GET
   - name: GIC
     url: https://gic.flitswallet.app/api
