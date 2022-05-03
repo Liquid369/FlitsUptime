@@ -218,10 +218,6 @@ sites:
     url: https://gic.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/gic.png
     method: GET
-  - name: GAU
-    url: https://gau.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/gau.png
-    method: GET
   - name: NS
     url: https://ns.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/ns.png
