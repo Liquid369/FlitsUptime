@@ -114,10 +114,6 @@ sites:
     url: https://apr.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/apr.png
     method: GET
-  - name: AXEL
-    url: https://axel.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/axel.png
-    method: GET
   - name: CTSC
     url: https://ctsc.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/ctsc.png
