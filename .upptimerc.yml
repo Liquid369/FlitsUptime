@@ -198,14 +198,6 @@ sites:
     url: https://fdr.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/fdr.png
     method: GET
-  - name: FLN
-    url: https://fln.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/fln.png
-    method: GET
-  - name: FYD
-    url: https://fyd.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/fyd.png
-    method: GET
   - name: GBX
     url: https://gbx.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/gbx.png
