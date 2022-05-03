@@ -150,10 +150,6 @@ sites:
     url: https://xsn.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/xsn.png
     method: GET
-  - name: FUNC
-    url: https://func.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/func.png
-    method: GET
   - name: MIDAS
     url: https://midas.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/midas.png
