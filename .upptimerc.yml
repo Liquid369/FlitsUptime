@@ -74,8 +74,8 @@ sites:
     url: https://azr.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/azr.png
     method: GET
-  - name: MODIC
-    url: https://modic.flitswallet.app/api
+  - name: MOBIC
+    url: https://mobic.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/modic.png
     method: GET
   - name: DMS
