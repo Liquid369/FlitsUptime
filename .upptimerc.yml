@@ -258,6 +258,10 @@ sites:
     url: https://pwrb.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/pwrb.png
     method: GET
+  - name: COLX
+    url: https://colx.flitswallet.app/api
+    icon: https://api3.flitsnode.app/coins/colx.png
+    method: GET
     
 
 status-website:
