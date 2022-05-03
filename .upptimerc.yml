@@ -202,10 +202,6 @@ sites:
     url: https://idx.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/idx.png
     method: GET
-  - name: QUOT
-    url: https://quot.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/quot.png
-    method: GET
   - name: MARC
     url: https://marc.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/marc.png
