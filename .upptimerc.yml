@@ -126,10 +126,6 @@ sites:
     url: https://kyd.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/kyd.png
     method: GET
-  - name: NBX
-    url: https://nbx.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/nbx.png
-    method: GET
   - name: SOVE
     url: https://sove.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/sove.png
@@ -174,10 +170,6 @@ sites:
     url: https://cari.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/cari.png
     method: GET
-  - name: CCY
-    url: https://ccy.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/ccy.png
-    method: GET
   - name: DEV
     url: https://dev.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/dev.png
@@ -194,10 +186,6 @@ sites:
     url: https://idx.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/idx.png
     method: GET
-  - name: MARC
-    url: https://marc.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/marc.png
-    method: GET
   - name: ULG
     url: https://ulg.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/ulg.png
@@ -205,10 +193,6 @@ sites:
   - name: KYAN
     url: https://kyan.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/kyan.png
-    method: GET
-  - name: GIC
-    url: https://gic.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/gic.png
     method: GET
   - name: NS
     url: https://ns.flitswallet.app/api
