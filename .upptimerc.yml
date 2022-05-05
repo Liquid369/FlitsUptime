@@ -134,21 +134,9 @@ sites:
     url: https://twins.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/twins.png
     method: GET
-  - name: XGS
-    url: https://xgs.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/xgs.png
-    method: GET
   - name: XLQ
     url: https://xlq.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/xlq.png
-    method: GET
-  - name: XSN
-    url: https://xsn.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/xsn.png
-    method: GET
-  - name: MIDAS
-    url: https://midas.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/midas.png
     method: GET
   - name: ABET
     url: https://abet.flitswallet.app/api
@@ -197,10 +185,6 @@ sites:
   - name: NS
     url: https://ns.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/ns.png
-    method: GET
-  - name: PHR
-    url: https://phr.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/phr.png
     method: GET
   - name: PIVX
     url: https://pivx.flitswallet.app/api
