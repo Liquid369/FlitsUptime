@@ -1,7 +1,7 @@
 url: https://pivx.flitswallet.app/api
-status: down
-code: 502
-responseTime: 658
-lastUpdated: 2022-05-14T23:21:04.922Z
+status: up
+code: 200
+responseTime: 941
+lastUpdated: 2022-05-15T13:48:11.073Z
 startTime: Tue Nov 30 2021 00:46:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
