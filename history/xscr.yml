@@ -1,7 +1,7 @@
 url: https://xscr.flitswallet.app/api
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-06-08T10:55:18.069Z
+status: up
+code: 200
+responseTime: 570
+lastUpdated: 2022-06-08T11:38:14.400Z
 startTime: Mon Nov 29 2021 21:51:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
