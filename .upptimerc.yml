@@ -30,10 +30,6 @@ sites:
     url: https://scc.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/scc.png
     method: GET
-  - name: XP
-    url: https://xp.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/xp.png
-    method: GET
   - name: Jackpot
     url: https://777.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/777.png
@@ -42,21 +38,9 @@ sites:
     url: https://trtt.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/trtt.png
     method: GET
-  - name: EZPAY
-    url: https://ezpay.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/ezpay.png
-    method: GET
-  - name: EGG
-    url: https://egg.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/egg.png
-    method: GET
   - name: CFL
     url: https://cfl.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/cfl.png
-    method: GET
-  - name: CSPN
-    url: https://cspn.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/cspn.png
     method: GET
   - name: OWO
     url: https://owo.flitswallet.app/api
@@ -114,10 +98,6 @@ sites:
     url: https://apr.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/apr.png
     method: GET
-  - name: CTSC
-    url: https://ctsc.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/ctsc.png
-    method: GET
   - name: ESK
     url: https://esk.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/esk.png
@@ -142,21 +122,9 @@ sites:
     url: https://abet.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/abet.png
     method: GET
-  - name: BARE
-    url: https://bare.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/bare.png
-    method: GET
   - name: BIR
     url: https://bir.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/bir.png
-    method: GET
-  - name: BLTG
-    url: https://bltg.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/bltg.png
-    method: GET
-  - name: CARI
-    url: https://cari.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/cari.png
     method: GET
   - name: DEV
     url: https://dev.flitswallet.app/api
