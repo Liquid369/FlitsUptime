@@ -62,14 +62,6 @@ sites:
     url: https://mobic.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/modic.png
     method: GET
-  - name: DMS
-    url: https://dms.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/dms.png
-    method: GET
-  - name: DYN
-    url: https://dyn.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/dyn.png
-    method: GET
   - name: ERS
     url: https://ers.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/ers.png
@@ -118,10 +110,6 @@ sites:
     url: https://xlq.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/xlq.png
     method: GET
-  - name: ABET
-    url: https://abet.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/abet.png
-    method: GET
   - name: BIR
     url: https://bir.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/bir.png
@@ -138,21 +126,9 @@ sites:
     url: https://fdr.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/fdr.png
     method: GET
-  - name: IDX
-    url: https://idx.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/idx.png
-    method: GET
-  - name: ULG
-    url: https://ulg.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/ulg.png
-    method: GET
   - name: KYAN
     url: https://kyan.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/kyan.png
-    method: GET
-  - name: NS
-    url: https://ns.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/ns.png
     method: GET
   - name: PIVX
     url: https://pivx.flitswallet.app/api
@@ -162,10 +138,6 @@ sites:
     url: https://ucr.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/ucr.png
     method: GET
-  - name: SMNC
-    url: https://smnc.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/smnc.png
-    method: GET
   - name: PNY
     url: https://pny.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/pny.png
@@ -174,10 +146,6 @@ sites:
     url: https://merge.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/merge.png
     method: GET
-  - name: LYRA
-    url: https://lyra.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/lyra.png
-    method: GET  
   - name: MW
     url: https://mw.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/mw.png
@@ -186,11 +154,6 @@ sites:
     url: https://pwrb.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/pwrb.png
     method: GET
-  - name: COLX
-    url: https://colx.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/colx.png
-    method: GET
-    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
