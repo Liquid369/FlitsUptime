@@ -62,10 +62,6 @@ sites:
     url: https://mobic.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/modic.png
     method: GET
-  - name: ERS
-    url: https://ers.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/ers.png
-    method: GET
   - name: ESBC
     url: https://esbc.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/esbc.png
@@ -86,25 +82,13 @@ sites:
     url: https://sapp.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/sapp.png
     method: GET
-  - name: APR
-    url: https://apr.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/apr.png
-    method: GET
   - name: ESK
     url: https://esk.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/esk.png
     method: GET
-  - name: KYD
-    url: https://kyd.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/kyd.png
-    method: GET
   - name: SOVE
     url: https://sove.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/sove.png
-    method: GET
-  - name: TWINS
-    url: https://twins.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/twins.png
     method: GET
   - name: XLQ
     url: https://xlq.flitswallet.app/api
@@ -117,10 +101,6 @@ sites:
   - name: DEV
     url: https://dev.flitswallet.app/api
     icon: https://api3.flitsnode.app/coins/dev.png
-    method: GET
-  - name: ESSX
-    url: https://essx.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/essx.png
     method: GET
   - name: FDR
     url: https://fdr.flitswallet.app/api
