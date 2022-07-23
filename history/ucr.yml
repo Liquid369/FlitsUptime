@@ -1,7 +1,7 @@
 url: https://ucr.flitswallet.app/api
-status: down
-code: 502
-responseTime: 404
-lastUpdated: 2022-07-23T22:21:44.891Z
+status: up
+code: 200
+responseTime: 420
+lastUpdated: 2022-07-23T22:36:17.090Z
 startTime: Tue Nov 30 2021 00:46:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
