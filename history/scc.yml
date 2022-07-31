@@ -1,7 +1,7 @@
 url: https://scc.flitswallet.app/api
-status: down
-code: 502
-responseTime: 440
-lastUpdated: 2022-07-31T17:59:55.305Z
+status: up
+code: 200
+responseTime: 1093
+lastUpdated: 2022-07-31T18:27:52.533Z
 startTime: Tue Nov 02 2021 15:49:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
