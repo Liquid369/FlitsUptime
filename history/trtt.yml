@@ -1,7 +1,7 @@
 url: https://trtt.flitswallet.app/api
-status: up
-code: 200
-responseTime: 722
-lastUpdated: 2022-07-31T23:17:35.473Z
+status: down
+code: 502
+responseTime: 196
+lastUpdated: 2022-08-01T10:53:18.395Z
 startTime: Wed Nov 03 2021 16:16:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
