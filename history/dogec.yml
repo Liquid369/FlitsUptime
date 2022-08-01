@@ -1,7 +1,7 @@
 url: https://dogec.flitswallet.app/api
-status: up
-code: 200
-responseTime: 617
-lastUpdated: 2022-07-31T23:17:31.836Z
+status: down
+code: 502
+responseTime: 221
+lastUpdated: 2022-08-01T10:53:14.481Z
 startTime: Tue Nov 02 2021 15:49:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
