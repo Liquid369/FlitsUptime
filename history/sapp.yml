@@ -1,7 +1,7 @@
 url: https://sapp.flitswallet.app/api
-status: up
-code: 200
-responseTime: 605
-lastUpdated: 2022-08-01T23:39:03.406Z
+status: down
+code: 404
+responseTime: 400
+lastUpdated: 2022-08-02T14:19:25.686Z
 startTime: Mon Nov 29 2021 21:54:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
