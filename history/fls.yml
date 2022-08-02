@@ -1,7 +1,7 @@
 url: https://fls.flitswallet.app/api
-status: up
-code: 200
-responseTime: 736
-lastUpdated: 2022-08-01T23:19:56.048Z
+status: down
+code: 404
+responseTime: 460
+lastUpdated: 2022-08-02T14:18:41.238Z
 startTime: Tue Nov 02 2021 15:49:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
