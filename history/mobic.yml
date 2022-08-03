@@ -1,7 +1,7 @@
 url: https://mobic.flitswallet.app/api
-status: down
-code: 502
-responseTime: 364
-lastUpdated: 2022-08-03T06:50:14.780Z
+status: up
+code: 200
+responseTime: 607
+lastUpdated: 2022-08-03T06:59:05.977Z
 startTime: Tue May 03 2022 15:25:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
