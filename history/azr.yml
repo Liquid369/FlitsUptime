@@ -1,7 +1,7 @@
 url: https://azr.flitswallet.app/api
-status: up
-code: 200
-responseTime: 400
-lastUpdated: 2022-08-10T23:16:48.791Z
+status: down
+code: 520
+responseTime: 459
+lastUpdated: 2022-08-11T18:09:16.157Z
 startTime: Mon Nov 29 2021 21:51:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
