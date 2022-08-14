@@ -1,164 +1,331 @@
 # Change these first
+
 owner: Liquid369 # Your GitHub organization or username, where this repository lives
+
 repo: FlitsUptime # The name of this repository
 
+
+
+
 assignees:
+
   - Liquid369
+
   - Luke-Larsen
+
 notifications:
+
   - type: slack
+
     channel: C01SX9QG5PD
+
   
+
 workflowSchedule:
+
   graphs: "0 0 * * *"
+
   uptime: "*/5 * * * *"
 
+
+
+
 sites:
+
   - name: FLS
+
     url: https://fls.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/fls.png
+
+    icon: https://api4.flitswallet.app/coins/fls.png
+
     method: GET
+
   - name: KTS
+
     url: https://kts.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/kts.png
+
+    icon: https://api4.flitswallet.app/coins/kts.png
+
     method: GET
+
   - name: DOGEC
+
     url: https://dogec.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/dogec.png
+
+    icon: https://api4.flitswallet.app/coins/dogec.png
+
     method: GET
+
   - name: SCC
+
     url: https://scc.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/scc.png
+
+    icon: https://api4.flitswallet.app/coins/scc.png
+
     method: GET
+
   - name: Jackpot
+
     url: https://777.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/777.png
+
+    icon: https://api4.flitswallet.app/coins/777.png
+
     method: GET
+
   - name: TRTT
+
     url: https://trtt.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/trtt.png
+
+    icon: https://api4.flitswallet.app/coins/trtt.png
+
     method: GET
+
   - name: CFL
+
     url: https://cfl.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/cfl.png
+
+    icon: https://api4.flitswallet.app/coins/cfl.png
+
     method: GET
+
   - name: OWO
+
     url: https://owo.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/owo.png
+
+    icon: https://api4.flitswallet.app/coins/owo.png
+
     method: GET
+
   - name: SSS
+
     url: https://sss.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/sss.png
+
+    icon: https://api4.flitswallet.app/coins/sss.png
+
     method: GET
+
   - name: ZNZ
+
     url: https://znz.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/znz.png
+
+    icon: https://api4.flitswallet.app/coins/znz.png
+
     method: GET
+
   - name: AZR
+
     url: https://azr.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/azr.png
+
+    icon: https://api4.flitswallet.app/coins/azr.png
+
     method: GET
+
   - name: MOBIC
+
     url: https://mobic.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/modic.png
+
+    icon: https://api4.flitswallet.app/coins/modic.png
+
     method: GET
+
   - name: ESBC
+
     url: https://esbc.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/esbc.png
+
+    icon: https://api4.flitswallet.app/coins/esbc.png
+
     method: GET
+
   - name: GTC
+
     url: https://gtc.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/gtc.png
+
+    icon: https://api4.flitswallet.app/coins/gtc.png
+
     method: GET
+
   - name: TELOS
+
     url: https://telos.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/telos.png
+
+    icon: https://api4.flitswallet.app/coins/telos.png
+
     method: GET
+
   - name: XSCR
+
     url: https://xscr.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/xscr.png
+
+    icon: https://api4.flitswallet.app/coins/xscr.png
+
     method: GET
+
   - name: SAPP
+
     url: https://sapp.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/sapp.png
+
+    icon: https://api4.flitswallet.app/coins/sapp.png
+
     method: GET
+
   - name: ESK
+
     url: https://esk.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/esk.png
+
+    icon: https://api4.flitswallet.app/coins/esk.png
+
     method: GET
+
   - name: SOVE
+
     url: https://sove.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/sove.png
+
+    icon: https://api4.flitswallet.app/coins/sove.png
+
     method: GET
+
   - name: XLQ
+
     url: https://xlq.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/xlq.png
+
+    icon: https://api4.flitswallet.app/coins/xlq.png
+
     method: GET
+
   - name: BIR
+
     url: https://bir.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/bir.png
+
+    icon: https://api4.flitswallet.app/coins/bir.png
+
     method: GET
+
   - name: DEV
+
     url: https://dev.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/dev.png
+
+    icon: https://api4.flitswallet.app/coins/dev.png
+
     method: GET
+
   - name: FDR
+
     url: https://fdr.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/fdr.png
+
+    icon: https://api4.flitswallet.app/coins/fdr.png
+
     method: GET
+
   - name: KYAN
+
     url: https://kyan.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/kyan.png
+
+    icon: https://api4.flitswallet.app/coins/kyan.png
+
     method: GET
+
   - name: PIVX
+
     url: https://pivx.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/pivx.png
+
+    icon: https://api4.flitswallet.app/coins/pivx.png
+
     method: GET
+
   - name: UCR
+
     url: https://ucr.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/ucr.png
+
+    icon: https://api4.flitswallet.app/coins/ucr.png
+
     method: GET
+
   - name: PNY
+
     url: https://pny.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/pny.png
+
+    icon: https://api4.flitswallet.app/coins/pny.png
+
     method: GET
+
   - name: MERGE
+
     url: https://merge.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/merge.png
+
+    icon: https://api4.flitswallet.app/coins/merge.png
+
     method: GET
+
   - name: MW
+
     url: https://mw.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/mw.png
+
+    icon: https://api4.flitswallet.app/coins/mw.png
+
     method: GET
+
   - name: PWRB
+
     url: https://pwrb.flitswallet.app/api
-    icon: https://api3.flitsnode.app/coins/pwrb.png
+
+    icon: https://api4.flitswallet.app/coins/pwrb.png
+
     method: GET
+
+
+
 
 status-website:
+
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
+
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+
   cname: liquid369.wtf
+
   # baseUrl: /your-repo-name
-  logoUrl: https://api3.flitsnode.app/coins/fls.png
-  favicon: https://api3.flitsnode.app/coins/fls.png
+
+  logoUrl: https://api4.flitswallet.app/coins/fls.png
+
+  favicon: https://api4.flitswallet.app/coins/fls.png
+
   name: Flits Uptime
+
   introTitle: "**Flits Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub and Upptime.js."
+
   introMessage: This is a starting status page which uses **real-time** data from our [GitHub repository](https://github.com/Liquid369/FlitsUptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+
   navbar:
+
     - title: Status
+
       href: /
+
     - title: GitHub
+
       href: https://github.com/$OWNER/$REPO
+
     - title: ZenDesk
+
       href: https://flits.zendesk.com/agent/dashboard
+
     - title: ASE
+
       href: https://ase.flitswallet.app
+
     - title: Cloud
+
       href: https://cloud.liquid369.xyz
+
   theme: dark
+
 i18n:
+
     footer: This site is powered by [Liquid369](https://liquid369.dev)
 
+
+
+
 # Upptime also supports notifications, assigning issues, and more
+
 # See https://upptime.js.org/docs/configuration
