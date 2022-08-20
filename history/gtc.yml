@@ -1,7 +1,7 @@
 url: https://gtc.flitswallet.app/api
-status: up
-code: 200
-responseTime: 612
-lastUpdated: 2022-08-20T23:16:32.758Z
+status: down
+code: 502
+responseTime: 322
+lastUpdated: 2022-08-20T23:51:18.687Z
 startTime: Mon Nov 29 2021 21:51:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
