@@ -6,16 +6,6 @@ repo: FlitsUptime # The name of this repository
 
 
 
-  
-
-workflowSchedule:
-
-  graphs: "0 0 * * *"
-
-  uptime: "*/5 * * * *"
-
-
-
 
 
 
