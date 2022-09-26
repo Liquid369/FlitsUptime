@@ -6,19 +6,6 @@ repo: FlitsUptime # The name of this repository
 
 
 
-
-assignees:
-
-  - Liquid369
-
-  - Luke-Larsen
-
-notifications:
-
-  - type: slack
-
-    channel: C01SX9QG5PD
-
   
 
 workflowSchedule:
